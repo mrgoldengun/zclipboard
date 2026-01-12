@@ -44,9 +44,9 @@ macos = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/example/xclipboard"
-Repository = "https://github.com/example/xclipboard"
-Documentation = "https://github.com/example/xclipboard#readme"
+Homepage = "https://github.com/mrgoldengun/xclipboard"
+Repository = "https://github.com/mrgoldengun/xclipboard"
+Documentation = "https://github.com/mrgoldengun/xclipboard#readme"
 
 [tool.setuptools.packages.find]
 where = ["."]
