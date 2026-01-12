@@ -56,6 +56,10 @@ include = ["xclipboard*"]
 testpaths = ["tests"]
 python_files = ["test_*.py"]
 python_functions = ["test_*"]
+markers = [
+    "integration: marks tests as integration tests (may require platform dependencies)",
+    "slow: marks tests as slow running",
+]
 
 [tool.coverage.run]
 source = ["xclipboard"]
