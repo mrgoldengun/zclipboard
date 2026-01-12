@@ -8,5 +8,5 @@ Handles multiple clipboard representations: plain text, rich text, image, etc.
 from zclipboard.clipboard import Clipboard
 from zclipboard.data_types import ClipboardFormat
 
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 __all__ = ["Clipboard", "ClipboardFormat"]
